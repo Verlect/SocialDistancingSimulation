@@ -1,0 +1,7 @@
+C:\Users\bisbo\Documents\Ubisoft\HackersNest-main\UbiGame_Blank01\x64\Release\Resources\img\Background.png
+C:\Users\bisbo\Documents\Ubisoft\HackersNest-main\UbiGame_Blank01\x64\Release\Resources\img\bg.png
+C:\Users\bisbo\Documents\Ubisoft\HackersNest-main\UbiGame_Blank01\x64\Release\Resources\img\gameover.png
+C:\Users\bisbo\Documents\Ubisoft\HackersNest-main\UbiGame_Blank01\x64\Release\Resources\img\healthbar.png
+C:\Users\bisbo\Documents\Ubisoft\HackersNest-main\UbiGame_Blank01\x64\Release\Resources\img\npc.png
+C:\Users\bisbo\Documents\Ubisoft\HackersNest-main\UbiGame_Blank01\x64\Release\Resources\img\pickup.png
+C:\Users\bisbo\Documents\Ubisoft\HackersNest-main\UbiGame_Blank01\x64\Release\Resources\img\peanutButter.png
